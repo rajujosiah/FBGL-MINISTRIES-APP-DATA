@@ -1,7 +1,7 @@
 [
     {
         "date": "2025-01-12",
-        "time_slot": "00:00 - 00:28",
+        "time_slot": "00:00 - 00:27",
         "speaker_name": "Speaker 1",
         "video_link": "https://www.youtube.com/watch?v=Rwq4AGN_Fus",
         "is_occupied": true
