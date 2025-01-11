@@ -29,14 +29,14 @@
     },
     {
         "date": "2025-01-12",
-        "time_slot": "01:38 - 01:40",
+        "time_slot": "01:44 - 01:47",
         "speaker_name": "Speaker 5",
         "video_link": "https://www.youtube.com/watch?v=Rwq4AGN_Fus",
         "is_occupied": true
     },
     {
         "date": "2025-01-12",
-        "time_slot": "03:45 - 04:30",
+        "time_slot": "01:49 - 01:51",
         "speaker_name": "Speaker 6",
         "video_link": "https://www.youtube.com/watch?v=Rwq4AGN_Fus",
         "is_occupied": true
