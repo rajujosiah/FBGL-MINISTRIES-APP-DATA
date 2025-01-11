@@ -43,7 +43,7 @@
     },
     {
         "date": "2025-01-12",
-        "time_slot": "02:00 - 02:03",
+        "time_slot": "02:00 - 02:12",
         "speaker_name": "Speaker 7",
         "video_link": "https://www.youtube.com/watch?v=Rwq4AGN_Fus",
         "is_occupied": true
